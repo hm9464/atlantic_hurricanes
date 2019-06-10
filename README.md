@@ -1,5 +1,5 @@
 # Hurricanes
-Analyis of historical hurricane data from the US National Oceanic and Atmospheric Administration
+Analysis of historical hurricane data from the US National Oceanic and Atmospheric Administration
 
 ## Data Source
 The NOAA records all historical hurricanes and tropical storms in their hurdat dataset. For this project, we will focus on the Atlantic hurricane seasons from 1850-2017. The data are structured with recordings every 6 hours (0000, 0600, 1200, 1800). Hence, one limitation of this dataset is that it does not consider PEAK intensity when determingin strength of a storm, everything is relative to time.
