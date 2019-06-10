@@ -13,9 +13,9 @@ Hurricanes have become increasingly prominent in recent years due to a combinati
 This project will analyze hurricane paths in recent seasons, where storms tend to be at their strongest, including visual analysis and statistical trends over time.
 
 ## Installation
-In a virtual environment (I am using Python 3.6):
-`pip install -r requirements/requirements.txt`
-`pip install basemap-1.2.0-cp36-cp36m-win_amd64.whl`
+In a virtual environment (I am using Python 3.6):<br>
+`pip install -r requirements/requirements.txt`<br>
+`pip install basemap-1.2.0-cp36-cp36m-win_amd64.whl`<br>
 * Download the basemap .whl file from here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#basemap
 * Put the file where you python packages are located and run above command
 
